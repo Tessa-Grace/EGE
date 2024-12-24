@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="Решение задачи">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="Решение задачи 14_19246">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,13 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1735059209431</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Решение задачи 14_19246">
+      <option name="closed" value="true" />
+      <created>1735060048178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735060048178</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Решение задачи 14_19246">
+      <option name="closed" value="true" />
+      <created>1735060066401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735060066401</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1" />
     <MESSAGE value="тестовый коммит" />
     <MESSAGE value="Решение задачи" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задачи" />
+    <MESSAGE value="Решение задачи 14_19246" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение задачи 14_19246" />
   </component>
 </project>

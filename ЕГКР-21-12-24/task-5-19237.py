@@ -18,3 +18,5 @@ for n in range(1, 10000):
     if r > 220 and r % 2 == 0:
         ans.append(r)
 print(min(ans))
+
+#otvet: 222

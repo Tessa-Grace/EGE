@@ -11,3 +11,5 @@ for x in alph[:25]:
         res = num // 24
         ans.append(res)
 print(max(ans))
+
+# otvet: 266249847
