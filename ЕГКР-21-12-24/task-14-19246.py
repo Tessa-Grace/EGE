@@ -2,13 +2,6 @@ from string import digits,ascii_lowercase
 
 alph = digits + ascii_lowercase
 
-def convert(num, sys):
-    r = ''
-    while num:
-        r += alph[num % sys]
-        num //= sys
-    return r[::-1]
-
 ans = []
 for x in alph[:25]:
     num1 = '11353' + x + '12'
