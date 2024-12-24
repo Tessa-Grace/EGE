@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="Решение задачи 14_19246">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи статград КЕГЭ8">
+      <change afterPath="$PROJECT_DIR$/etc/task-8-for-fun.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.19246.executor": "Run",
+    "Python.task-14-19246.executor": "Run",
     "Python.task-5-19237.executor": "Run",
+    "Python.task-8-for-fun.executor": "Run",
+    "Python.taslk_12_19244.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -110,7 +114,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735060066401</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Решение задачи 12_19244">
+      <option name="closed" value="true" />
+      <created>1735061110189</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735061110189</updated>
+    </task>
+    <task id="LOCAL-00007" summary="уточнение ответов">
+      <option name="closed" value="true" />
+      <created>1735061129151</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735061129151</updated>
+    </task>
+    <task id="LOCAL-00008" summary="решение задачи статград КЕГЭ8">
+      <option name="closed" value="true" />
+      <created>1735062729542</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735062729542</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +146,9 @@
     <MESSAGE value="тестовый коммит" />
     <MESSAGE value="Решение задачи" />
     <MESSAGE value="Решение задачи 14_19246" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение задачи 14_19246" />
+    <MESSAGE value="Решение задачи 12_19244" />
+    <MESSAGE value="уточнение ответов" />
+    <MESSAGE value="решение задачи статград КЕГЭ8" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение задачи статград КЕГЭ8" />
   </component>
 </project>
