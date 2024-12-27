@@ -28,12 +28,12 @@
     &quot;assignee&quot;: &quot;Tessa-Grace&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Tessa-Grace/EGE.git",
-    "accountId": "bdccc953-b011-41e0-a158-b53709a42d7c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tessa-Grace/EGE.git&quot;,
+    &quot;accountId&quot;: &quot;bdccc953-b011-41e0-a158-b53709a42d7c&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,7 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.19246.executor": "Run",
+    "Python.task-1-4581.executor": "Run",
     "Python.task-14-19246.executor": "Run",
+    "Python.task-16-19248.executor": "Run",
     "Python.task-2-19234.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-6-19238.executor": "Run",
@@ -187,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735296154957</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="решение задачи">
+      <option name="closed" value="true" />
+      <created>1735307887033</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735307887033</updated>
+    </task>
+    <task id="LOCAL-00015" summary="решение задачи">
+      <option name="closed" value="true" />
+      <created>1735308616532</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1735308616532</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
