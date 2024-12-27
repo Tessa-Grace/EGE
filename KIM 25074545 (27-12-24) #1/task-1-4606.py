@@ -8,4 +8,4 @@ for i in permutations('CDHEGFBA'):
         print(*i)
 
 # 13 + 5 = 18
-# otvet: 18
+# otvet: 18from itertools import
