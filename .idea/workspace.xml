@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10104" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="работа над ошибками">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INDI/KIM 25028749 DEMO-2024/task-8-10090.py" beforeDir="false" afterPath="$PROJECT_DIR$/INDI/KIM 25028749 DEMO-2024/task-8-10090.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +67,7 @@
     "Python.task-16-19248.executor": "Run",
     "Python.task-2-10084.executor": "Run",
     "Python.task-2-19234.executor": "Run",
+    "Python.task-24-10105.executor": "Run",
     "Python.task-24-19254.executor": "Run",
     "Python.task-5-10087.executor": "Run",
     "Python.task-5-19237.executor": "Run",
@@ -83,6 +87,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024\task-24-10105" />
       <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024" />
       <recent name="C:\Users\terri\EGE\class" />
       <recent name="C:\Users\terri\EGE\ЕГКР-21-12-24" />
@@ -103,14 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
-    </task>
-    <task id="LOCAL-00001" summary="#1">
-      <option name="closed" value="true" />
-      <created>1735057553161</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735057553161</updated>
     </task>
     <task id="LOCAL-00002" summary="тестовый коммит">
       <option name="closed" value="true" />
@@ -488,12 +485,26 @@
       <option name="project" value="LOCAL" />
       <updated>1735932591466</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="решение 10105">
+      <option name="closed" value="true" />
+      <created>1735932981081</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1735932981081</updated>
+    </task>
+    <task id="LOCAL-00050" summary="работа над ошибками">
+      <option name="closed" value="true" />
+      <created>1735933443659</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1735933443660</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="решение задачи 19252" />
-    <MESSAGE value="решение задачи 19244" />
     <MESSAGE value="решение задачи 19254 (ошибка, надо разобрать решение)" />
     <MESSAGE value="03/01/2025 &#10;решение задачи 10083 (граф кодом)" />
     <MESSAGE value="решение задачи 10083 (граф кодом)" />
@@ -517,6 +528,8 @@
     <MESSAGE value="решение 10101" />
     <MESSAGE value="решение 10103" />
     <MESSAGE value="решение 10104" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 10104" />
+    <MESSAGE value="решение 10105" />
+    <MESSAGE value="работа над ошибками" />
+    <option name="LAST_COMMIT_MESSAGE" value="работа над ошибками" />
   </component>
 </project>
