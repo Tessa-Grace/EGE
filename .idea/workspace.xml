@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи 17542 (графы кодом)">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи 19244">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/task_12_19244.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/task-12-19244.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Python.task-14-19246.executor": "Run",
     "Python.task-16-19248.executor": "Run",
     "Python.task-2-19234.executor": "Run",
+    "Python.task-24-19254.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-6-19238.executor": "Run",
     "Python.task-8-19240.executor": "Run",
@@ -277,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735917706805</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="решение задачи 19252">
+      <option name="closed" value="true" />
+      <created>1735919159202</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1735919159202</updated>
+    </task>
+    <task id="LOCAL-00025" summary="решение задачи 19244">
+      <option name="closed" value="true" />
+      <created>1735919180072</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1735919180072</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -298,6 +314,8 @@
     <MESSAGE value="решение задачи 17514 (графы кодом)" />
     <MESSAGE value="решение задачи 19233 (графы кодом)" />
     <MESSAGE value="решение задачи 17542 (графы кодом)" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение задачи 17542 (графы кодом)" />
+    <MESSAGE value="решение задачи 19252" />
+    <MESSAGE value="решение задачи 19244" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение задачи 19244" />
   </component>
 </project>
