@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10095" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10097" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +58,9 @@
     "Python.task-12-10094.executor": "Run",
     "Python.task-13-10095.executor": "Run",
     "Python.task-14-10096.executor": "Run",
+    "Python.task-14-10097.executor": "Run",
     "Python.task-14-19246.executor": "Run",
+    "Python.task-16-10099.executor": "Run",
     "Python.task-16-19248.executor": "Run",
     "Python.task-2-10084.executor": "Run",
     "Python.task-2-19234.executor": "Run",
@@ -438,12 +440,26 @@
       <option name="project" value="LOCAL" />
       <updated>1735930505039</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="решение 10096">
+      <option name="closed" value="true" />
+      <created>1735930921253</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1735930921253</updated>
+    </task>
+    <task id="LOCAL-00044" summary="решение 10097">
+      <option name="closed" value="true" />
+      <created>1735931193725</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1735931193725</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="решение задачи 4606 (графы кодом)" />
-    <MESSAGE value="решение задачи 9732 (графы кодом)" />
     <MESSAGE value="решение задачи 9770 (графы кодом)" />
     <MESSAGE value="решение задачи 17514 (графы кодом)" />
     <MESSAGE value="решение задачи 19233 (графы кодом)" />
@@ -467,6 +483,8 @@
     <MESSAGE value="решение 10093" />
     <MESSAGE value="решение 10094" />
     <MESSAGE value="решение 10095" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 10095" />
+    <MESSAGE value="решение 10096" />
+    <MESSAGE value="решение 10097" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 10097" />
   </component>
 </project>
