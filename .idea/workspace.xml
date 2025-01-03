@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10089" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10090" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -387,11 +387,18 @@
       <option name="project" value="LOCAL" />
       <updated>1735927998343</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="решение 10090">
+      <option name="closed" value="true" />
+      <created>1735928646374</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1735928646374</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="уточнение ответов" />
     <MESSAGE value="решение задачи статград КЕГЭ8" />
     <MESSAGE value="решение задачи #19234" />
     <MESSAGE value="решение задачи" />
@@ -416,6 +423,7 @@
     <MESSAGE value="решение 4694" />
     <MESSAGE value="решение 10088" />
     <MESSAGE value="решение 10089" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 10089" />
+    <MESSAGE value="решение 10090" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 10090" />
   </component>
 </project>
