@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10086" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 4694">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,9 @@
     "Python.task-24-19254.executor": "Run",
     "Python.task-5-10087.executor": "Run",
     "Python.task-5-19237.executor": "Run",
+    "Python.task-6-10088.executor": "Run",
     "Python.task-6-19238.executor": "Run",
+    "Python.task-6-4694.executor": "Run",
     "Python.task-8-19240.executor": "Run",
     "Python.task-8-for-fun.executor": "Run",
     "Python.taslk_12_19244.executor": "Run",
@@ -352,12 +356,26 @@
       <option name="project" value="LOCAL" />
       <updated>1735926541080</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="решение 10087">
+      <option name="closed" value="true" />
+      <created>1735926899211</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1735926899211</updated>
+    </task>
+    <task id="LOCAL-00034" summary="решение 4694">
+      <option name="closed" value="true" />
+      <created>1735927194453</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1735927194453</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="тестовый коммит" />
-    <MESSAGE value="Решение задачи" />
     <MESSAGE value="Решение задачи 14_19246" />
     <MESSAGE value="Решение задачи 12_19244" />
     <MESSAGE value="уточнение ответов" />
@@ -381,6 +399,8 @@
     <MESSAGE value="решение 10084 автоматизированным способом" />
     <MESSAGE value="решение 10085" />
     <MESSAGE value="решение 10086" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 10086" />
+    <MESSAGE value="решение 10087" />
+    <MESSAGE value="решение 4694" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 4694" />
   </component>
 </project>
