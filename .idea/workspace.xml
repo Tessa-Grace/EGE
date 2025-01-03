@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи 19254 (ошибка, надо разобрать решение)">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="restructuring">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Python.task-1-9770.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-16-19248.executor": "Run",
+    "Python.task-2-10084.executor": "Run",
     "Python.task-2-19234.executor": "Run",
     "Python.task-24-19254.executor": "Run",
     "Python.task-5-19237.executor": "Run",
@@ -75,6 +76,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\terri\EGE\class" />
       <recent name="C:\Users\terri\EGE\ЕГКР-21-12-24" />
     </key>
   </component>
@@ -302,7 +304,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735924159891</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="решение задачи 10083 (граф кодом)">
+      <option name="closed" value="true" />
+      <created>1735925186193</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1735925186193</updated>
+    </task>
+    <task id="LOCAL-00028" summary="решение задачи 10083 (граф кодом)">
+      <option name="closed" value="true" />
+      <created>1735925231059</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1735925231059</updated>
+    </task>
+    <task id="LOCAL-00029" summary="restructuring">
+      <option name="closed" value="true" />
+      <created>1735925413795</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735925413795</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -326,6 +352,9 @@
     <MESSAGE value="решение задачи 19252" />
     <MESSAGE value="решение задачи 19244" />
     <MESSAGE value="решение задачи 19254 (ошибка, надо разобрать решение)" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение задачи 19254 (ошибка, надо разобрать решение)" />
+    <MESSAGE value="03/01/2025 &#10;решение задачи 10083 (граф кодом)" />
+    <MESSAGE value="решение задачи 10083 (граф кодом)" />
+    <MESSAGE value="restructuring" />
+    <option name="LAST_COMMIT_MESSAGE" value="restructuring" />
   </component>
 </project>
