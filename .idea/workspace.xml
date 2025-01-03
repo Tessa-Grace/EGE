@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10097" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10101" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -456,12 +456,26 @@
       <option name="project" value="LOCAL" />
       <updated>1735931193725</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="решение 10099">
+      <option name="closed" value="true" />
+      <created>1735931410306</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1735931410306</updated>
+    </task>
+    <task id="LOCAL-00046" summary="решение 10101">
+      <option name="closed" value="true" />
+      <created>1735931687780</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1735931687780</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="решение задачи 9770 (графы кодом)" />
-    <MESSAGE value="решение задачи 17514 (графы кодом)" />
     <MESSAGE value="решение задачи 19233 (графы кодом)" />
     <MESSAGE value="решение задачи 17542 (графы кодом)" />
     <MESSAGE value="решение задачи 19252" />
@@ -485,6 +499,8 @@
     <MESSAGE value="решение 10095" />
     <MESSAGE value="решение 10096" />
     <MESSAGE value="решение 10097" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение 10097" />
+    <MESSAGE value="решение 10099" />
+    <MESSAGE value="решение 10101" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 10101" />
   </component>
 </project>
