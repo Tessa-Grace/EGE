@@ -11,3 +11,4 @@ for val in product('01234567', repeat=8):
 print(count)
 
 # otvet: 4264624
+
