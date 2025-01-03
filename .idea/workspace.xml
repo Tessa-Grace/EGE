@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи 4606 (графы кодом)">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи 17542 (графы кодом)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KIM 25074545 (27-12-24) #1/task-1-4606.py" beforeDir="false" afterPath="$PROJECT_DIR$/KIM 25074545 (27-12-24) #1/task-1-4606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ЕГКР-21-12-24/task_12_19244.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР-21-12-24/task-12-19244.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.19246.executor": "Run",
+    "Python.task-1-17514.executor": "Run",
+    "Python.task-1-17542.executor": "Run",
     "Python.task-1-1845.executor": "Run",
+    "Python.task-1-19233.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-1-4606.executor": "Run",
     "Python.task-1-9732.executor": "Run",
+    "Python.task-1-9770.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-16-19248.executor": "Run",
     "Python.task-2-19234.executor": "Run",
@@ -233,7 +237,47 @@
       <option name="project" value="LOCAL" />
       <updated>1735320754971</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="решение задачи 9732 (графы кодом)">
+      <option name="closed" value="true" />
+      <created>1735321370364</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1735321370364</updated>
+    </task>
+    <task id="LOCAL-00020" summary="решение задачи 9770 (графы кодом)">
+      <option name="closed" value="true" />
+      <created>1735321606289</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1735321606289</updated>
+    </task>
+    <task id="LOCAL-00021" summary="решение задачи 17514 (графы кодом)">
+      <option name="closed" value="true" />
+      <created>1735322262130</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1735322262130</updated>
+    </task>
+    <task id="LOCAL-00022" summary="решение задачи 19233 (графы кодом)">
+      <option name="closed" value="true" />
+      <created>1735917679523</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1735917679523</updated>
+    </task>
+    <task id="LOCAL-00023" summary="решение задачи 17542 (графы кодом)">
+      <option name="closed" value="true" />
+      <created>1735917706805</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1735917706805</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +293,11 @@
     <MESSAGE value="решение задачи 4581 (графы кодом)" />
     <MESSAGE value="решение задачи 1845 (графы кодом)" />
     <MESSAGE value="решение задачи 4606 (графы кодом)" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение задачи 4606 (графы кодом)" />
+    <MESSAGE value="решение задачи 9732 (графы кодом)" />
+    <MESSAGE value="решение задачи 9770 (графы кодом)" />
+    <MESSAGE value="решение задачи 17514 (графы кодом)" />
+    <MESSAGE value="решение задачи 19233 (графы кодом)" />
+    <MESSAGE value="решение задачи 17542 (графы кодом)" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение задачи 17542 (графы кодом)" />
   </component>
 </project>
