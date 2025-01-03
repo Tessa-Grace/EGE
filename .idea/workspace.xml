@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="restructuring">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение 10085">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024" />
       <recent name="C:\Users\terri\EGE\class" />
       <recent name="C:\Users\terri\EGE\ЕГКР-21-12-24" />
     </key>
@@ -328,7 +329,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735925413795</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="решение 10084 автоматизированным способом">
+      <option name="closed" value="true" />
+      <created>1735925893931</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1735925893931</updated>
+    </task>
+    <task id="LOCAL-00031" summary="решение 10085">
+      <option name="closed" value="true" />
+      <created>1735926168537</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1735926168537</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,6 +372,8 @@
     <MESSAGE value="03/01/2025 &#10;решение задачи 10083 (граф кодом)" />
     <MESSAGE value="решение задачи 10083 (граф кодом)" />
     <MESSAGE value="restructuring" />
-    <option name="LAST_COMMIT_MESSAGE" value="restructuring" />
+    <MESSAGE value="решение 10084 автоматизированным способом" />
+    <MESSAGE value="решение 10085" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение 10085" />
   </component>
 </project>
