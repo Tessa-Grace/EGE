@@ -1,6 +1,5 @@
 # 14327
 
-
 def convert(num, sys):
     if num == 0:
         return '0'
@@ -22,3 +21,5 @@ for n in range(1, 10000):
     if r < 313:
         ans.append(n)
 print(max(ans))
+
+#otvet: 38

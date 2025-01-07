@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="Решение 18122" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="Решение 14327" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +50,7 @@
     "Python.task-14-18122.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-19406.executor": "Run",
+    "Python.task-5-14327.executor": "Run",
     "Python.task-5-18578.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-8-for-fun.executor": "Run",
@@ -171,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736269332388</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Решение 18578">
+      <option name="closed" value="true" />
+      <created>1736269624027</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269624027</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Решение 14327">
+      <option name="closed" value="true" />
+      <created>1736270423228</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736270423228</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,6 +204,8 @@
     <MESSAGE value="решение 19406" />
     <MESSAGE value="ошибка, надо перерешать" />
     <MESSAGE value="Решение 18122" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решение 18122" />
+    <MESSAGE value="Решение 18578" />
+    <MESSAGE value="Решение 14327" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение 14327" />
   </component>
 </project>
