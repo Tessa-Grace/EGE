@@ -8,4 +8,4 @@ while num:
 res = res[::-1]
 print(res.count('0'))
 
-#otvet: 328
+#otvet: 328 oshibka!!!
