@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="решение задачи из пробника зима">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="work with mistakes from winter exam">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM  (10-01-25) #\task-9" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -217,7 +222,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736526973602</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="решение задачи 9 программно из пробника зима">
+      <option name="closed" value="true" />
+      <created>1736528937546</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736528937546</updated>
+    </task>
+    <task id="LOCAL-00019" summary="work with mistakes from winter exam">
+      <option name="closed" value="true" />
+      <created>1736529153720</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1736529153720</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,6 +269,8 @@
     <MESSAGE value="Решение 14327" />
     <MESSAGE value="Решение 17627" />
     <MESSAGE value="решение задачи из пробника зима" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение задачи из пробника зима" />
+    <MESSAGE value="решение задачи 9 программно из пробника зима" />
+    <MESSAGE value="work with mistakes from winter exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="work with mistakes from winter exam" />
   </component>
 </project>
