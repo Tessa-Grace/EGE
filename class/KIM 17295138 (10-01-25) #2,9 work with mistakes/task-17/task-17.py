@@ -19,3 +19,5 @@ for i in range(len(arr) - 3):
 
 print(len(ans), max(ans))
 
+# otvet: 75 247177
+
