@@ -9,3 +9,5 @@ for n in range(1, 10000):
     if r > 999 and n % 2 == 0:
         ans.append(r)
 print(min(ans))
+
+# otvet: 1007
