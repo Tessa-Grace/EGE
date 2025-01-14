@@ -1,9 +1,12 @@
+from string import digits, ascii_uppercase
+alph = digits + ascii_uppercase
+
 def convert(num, sys):
-    r = ''
+    res = ''
     while num:
-        r += str(num % sys)
+        res += alph[num % sys]
         num //= sys
-    return r[::-1]
+    return res[::-1]
 
 ans = []
 for n in range(1, 10000):

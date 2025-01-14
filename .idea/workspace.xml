@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solvation of task 24-17535" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="work with mistakes from winter exam">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,6 @@
     "Python.task-14-18122.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-19406.executor": "Run",
-    "Python.task-17.executor": "Run",
     "Python.task-2from probnik zima.executor": "Run",
     "Python.task-5-14327.executor": "Run",
     "Python.task-5-18578.executor": "Run",
@@ -61,14 +62,10 @@
     "Python.taslk_12_19244.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TGerasimova/Desktop/EGE/class/KIM 17295138 (10-01-25) #2,9 work with mistakes/task-17"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM 17295138 (10-01-25) #2,9 work with mistakes\task-17" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM  (10-01-25) #\task-9" />
     </key>
@@ -241,31 +238,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736529153720</updated>
     </task>
-    <task id="LOCAL-00020" summary="work with mistakes from winter exam">
-      <option name="closed" value="true" />
-      <created>1736531248146</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1736531248146</updated>
-    </task>
-    <task id="LOCAL-00021" summary="work with mistakes from winter exam">
-      <option name="closed" value="true" />
-      <created>1736531292369</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1736531292369</updated>
-    </task>
-    <task id="LOCAL-00022" summary="solvation of task 24-17535">
-      <option name="closed" value="true" />
-      <created>1736531526621</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1736531526621</updated>
-    </task>
-    <option name="localTasksCounter" value="23" />
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +271,6 @@
     <MESSAGE value="решение задачи из пробника зима" />
     <MESSAGE value="решение задачи 9 программно из пробника зима" />
     <MESSAGE value="work with mistakes from winter exam" />
-    <MESSAGE value="solvation of task 24-17535" />
-    <option name="LAST_COMMIT_MESSAGE" value="solvation of task 24-17535" />
+    <option name="LAST_COMMIT_MESSAGE" value="work with mistakes from winter exam" />
   </component>
 </project>
