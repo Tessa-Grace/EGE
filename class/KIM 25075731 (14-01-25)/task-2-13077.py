@@ -14,5 +14,5 @@ for a1, a2, a3, a4, a in product([0, 1], repeat=5):
     ]
     for p in permutations('wxyz'):
         if [f1(**dict(zip(p, r))) for r in table] == [1, 1, 0] and \
-                [f2(**dict(zip(p, r))) for r in table] == [1, 1, 0] == [0, a, 0]:
+                [f2(**dict(zip(p, r))) for r in table] == [1, 1, 0] == [0, 1, 0]:
             print(*p)
