@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 17535">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 17535" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,6 @@
     "Python.task-2-19234.executor": "Run",
     "Python.task-2.executor": "Run",
     "Python.task-24-10105.executor": "Run",
-    "Python.task-24-17535.executor": "Run",
     "Python.task-24-19254.executor": "Run",
     "Python.task-5-10087.executor": "Run",
     "Python.task-5-12721.executor": "Run",
@@ -120,20 +117,16 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/terri/EGE/etc/task-24-17535",
     "settings.editor.selected.configurable": "configurable.group.project"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\terri\EGE\etc\task-24-17535" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\terri\EGE\etc\task-24-17535" />
       <recent name="C:\Users\terri\EGE\class\KIM 17295138 (09-01-25) PROBNIK" />
       <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024\task-24-10105" />
       <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024" />
       <recent name="C:\Users\terri\EGE\class" />
+      <recent name="C:\Users\terri\EGE\ЕГКР-21-12-24" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -151,6 +144,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
+    </task>
+    <task id="LOCAL-00060" summary="решение #12 из зимнего пробника">
+      <option name="closed" value="true" />
+      <created>1736442632173</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1736442632173</updated>
+    </task>
+    <task id="LOCAL-00061" summary="решение #11 из зимнего пробника">
+      <option name="closed" value="true" />
+      <created>1736443027502</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1736443027502</updated>
     </task>
     <task id="LOCAL-00062" summary="решение #14 из зимнего пробника">
       <option name="closed" value="true" />
@@ -528,23 +537,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736701303054</updated>
     </task>
-    <task id="LOCAL-00109" summary="solution of 17535">
-      <option name="closed" value="true" />
-      <created>1736701330720</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1736701330720</updated>
-    </task>
-    <task id="LOCAL-00110" summary="solution of 17535">
-      <option name="closed" value="true" />
-      <created>1736701613157</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1736701613157</updated>
-    </task>
-    <option name="localTasksCounter" value="111" />
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
