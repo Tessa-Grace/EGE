@@ -6,7 +6,7 @@ for num in range(10_000, 100_000):
     for i in num:
         if int(i) % 2 == 0:
             mult *= int(i)
-    if kv < mult:
+    if kv < mult:                          # ans = str(max(kv, mult)) + str(min(kv, mult))
         res = str(mult) + str(kv)
     else:
         res = str(kv) + str(mult)
