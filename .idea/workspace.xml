@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="to finish!">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 4582">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,6 @@
     "Python.task-14-18122.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-19406.executor": "Run",
-    "Python.task-2-13077.executor": "Run",
     "Python.task-2-1846.executor": "Run",
     "Python.task-2-2695.executor": "Run",
     "Python.task-2-4582.executor": "Run",
@@ -67,7 +66,6 @@
     "Python.task-8-17627.executor": "Run",
     "Python.task-8-for-fun.executor": "Run",
     "Python.task-9 (from probnik zima).executor": "Run",
-    "Python.task2-13077.executor": "Run",
     "Python.taslk_12_19244.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -303,47 +301,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736875317138</updated>
     </task>
-    <task id="LOCAL-00027" summary="solution of 6283">
-      <option name="closed" value="true" />
-      <created>1736877091902</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877091902</updated>
-    </task>
-    <task id="LOCAL-00028" summary="solution of 2695">
-      <option name="closed" value="true" />
-      <created>1736877108822</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877108822</updated>
-    </task>
-    <task id="LOCAL-00029" summary="to finish 13077!">
-      <option name="closed" value="true" />
-      <created>1736877760455</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877760455</updated>
-    </task>
-    <task id="LOCAL-00030" summary="update">
-      <option name="closed" value="true" />
-      <created>1736877776690</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877776690</updated>
-    </task>
-    <task id="LOCAL-00031" summary="to finish!">
-      <option name="closed" value="true" />
-      <created>1736877943124</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1736877943124</updated>
-    </task>
-    <option name="localTasksCounter" value="32" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +316,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="#1" />
+    <MESSAGE value="тестовый коммит" />
+    <MESSAGE value="Решение задачи" />
     <MESSAGE value="Решение задачи 14_19246" />
     <MESSAGE value="Решение задачи 12_19244" />
     <MESSAGE value="уточнение ответов" />
@@ -378,11 +339,6 @@
     <MESSAGE value="solution of 9771" />
     <MESSAGE value="solution of 9733" />
     <MESSAGE value="solution of 4582" />
-    <MESSAGE value="solution of 6283" />
-    <MESSAGE value="solution of 2695" />
-    <MESSAGE value="to finish 13077!" />
-    <MESSAGE value="update" />
-    <MESSAGE value="to finish!" />
-    <option name="LAST_COMMIT_MESSAGE" value="to finish!" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution of 4582" />
   </component>
 </project>
