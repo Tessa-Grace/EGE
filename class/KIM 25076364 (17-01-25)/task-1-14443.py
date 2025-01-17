@@ -11,4 +11,4 @@ for i in permutations('ABCFGED'):
 # D F E G C A B
 # D E F G A C B
 # A=5 C=6
-# otvet: 56
+# otvet: 65
