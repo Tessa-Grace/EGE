@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 13797">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +79,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM 25076370 (17-01-25)" />
       <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM  (10-01-25) #\task-9" />
     </key>
   </component>
@@ -372,7 +371,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737135109737</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="solution of 13089">
+      <option name="closed" value="true" />
+      <created>1737135951997</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1737135951997</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <option name="closed" value="true" />
+      <created>1737136026729</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136026729</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,8 +402,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Решение задачи 12_19244" />
-    <MESSAGE value="уточнение ответов" />
     <MESSAGE value="решение задачи статград КЕГЭ8" />
     <MESSAGE value="-" />
     <MESSAGE value="решение 12246" />
@@ -412,6 +425,8 @@
     <MESSAGE value="solution of 9148 MISTAKE" />
     <MESSAGE value="solution of 14443" />
     <MESSAGE value="solution of 13797" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution of 13797" />
+    <MESSAGE value="solution of 13089" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
