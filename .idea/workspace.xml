@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="to solve" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +52,7 @@
     "Python.task-14-18122.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-14-19406.executor": "Run",
+    "Python.task-2-13077.executor": "Run",
     "Python.task-2-13089.executor": "Run",
     "Python.task-2-13797.executor": "Run",
     "Python.task-2-14390.executor": "Run",
@@ -387,7 +388,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737136026729</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="solution of 13077">
+      <option name="closed" value="true" />
+      <created>1737136825240</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136825240</updated>
+    </task>
+    <task id="LOCAL-00038" summary="to solve">
+      <option name="closed" value="true" />
+      <created>1737136839113</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1737136839113</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -402,8 +419,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="решение задачи статград КЕГЭ8" />
-    <MESSAGE value="-" />
     <MESSAGE value="решение 12246" />
     <MESSAGE value="решение 19406" />
     <MESSAGE value="ошибка, надо перерешать" />
@@ -427,6 +442,8 @@
     <MESSAGE value="solution of 13797" />
     <MESSAGE value="solution of 13089" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="solution of 13077" />
+    <MESSAGE value="to solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="to solve" />
   </component>
 </project>
