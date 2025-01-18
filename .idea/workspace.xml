@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 4604">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 4660">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,9 @@
     "Python.task-2-7667.executor": "Run",
     "Python.task-2-9733.executor": "Run",
     "Python.task-2-9771.executor": "Run",
+    "Python.task-26-17565.executor": "Run",
     "Python.task-26-4606.executor": "Run",
+    "Python.task-26-4660.executor": "Run",
     "Python.task-2from probnik zima.executor": "Run",
     "Python.task-3-4607.executor": "Run",
     "Python.task-5-14327.executor": "Run",
@@ -79,11 +81,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/TGerasimova/Desktop/EGE/class/KIM 25076679 (18-01-25) #26"
+    "last_opened_file_path": "C:/Users/TGerasimova/Desktop/EGE/class/KIM 25076679 (18-01-25) #26/task-26-17565"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM 25076679 (18-01-25) #26\task-26-17565" />
+      <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM 25076679 (18-01-25) #26\task-26-4660" />
       <recent name="C:\Users\TGerasimova\Desktop\EGE\class\KIM 25076679 (18-01-25) #26" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -428,7 +432,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737210748076</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="solution of 4604">
+      <option name="closed" value="true" />
+      <created>1737210817415</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1737210817415</updated>
+    </task>
+    <task id="LOCAL-00042" summary="solution of 4660">
+      <option name="closed" value="true" />
+      <created>1737213781219</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1737213781219</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +463,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="решение 19406" />
     <MESSAGE value="ошибка, надо перерешать" />
     <MESSAGE value="Решение 18122" />
     <MESSAGE value="Решение 18578" />
@@ -468,6 +487,7 @@
     <MESSAGE value="to solve" />
     <MESSAGE value="update" />
     <MESSAGE value="solution of 4604" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution of 4604" />
+    <MESSAGE value="solution of 4660" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution of 4660" />
   </component>
 </project>
