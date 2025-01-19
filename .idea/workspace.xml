@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update" />
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 11292 MISTAKE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,11 +135,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\terri\EGE\class\KIM 25075893" />
       <recent name="C:\Users\terri\EGE\class\KIM 17295138 (09-01-25) PROBNIK" />
       <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024\task-24-10105" />
       <recent name="C:\Users\terri\EGE\INDI\KIM 25028749 DEMO-2024" />
       <recent name="C:\Users\terri\EGE\class" />
+      <recent name="C:\Users\terri\EGE\ЕГКР-21-12-24" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -155,6 +157,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
+    </task>
+    <task id="LOCAL-00080" summary="решение 18482 #2 программно">
+      <option name="closed" value="true" />
+      <created>1736511221848</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1736511221848</updated>
+    </task>
+    <task id="LOCAL-00081" summary="update">
+      <option name="closed" value="true" />
+      <created>1736614529495</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1736614529495</updated>
+    </task>
+    <task id="LOCAL-00082" summary="solution of 17859">
+      <option name="closed" value="true" />
+      <created>1736621913531</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1736621913531</updated>
     </task>
     <task id="LOCAL-00083" summary="update">
       <option name="closed" value="true" />
@@ -524,31 +550,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737124749840</updated>
     </task>
-    <task id="LOCAL-00129" summary="solution of 19233 by hands">
-      <option name="closed" value="true" />
-      <created>1737125698057</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1737125698057</updated>
-    </task>
-    <task id="LOCAL-00130" summary="solution of 16248 by hands">
-      <option name="closed" value="true" />
-      <created>1737125721999</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1737125721999</updated>
-    </task>
-    <task id="LOCAL-00131" summary="update">
-      <option name="closed" value="true" />
-      <created>1737125737601</created>
-      <option name="number" value="00131" />
-      <option name="presentableId" value="LOCAL-00131" />
-      <option name="project" value="LOCAL" />
-      <updated>1737125737601</updated>
-    </task>
-    <option name="localTasksCounter" value="132" />
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -563,6 +565,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="solution of 12914" />
+    <MESSAGE value="solution of 6588" />
     <MESSAGE value="solution of 12721" />
     <MESSAGE value="solution of 4317" />
     <MESSAGE value="solution of 18164" />
@@ -577,6 +581,7 @@
     <MESSAGE value="solution of 18133" />
     <MESSAGE value="solution of 18120" />
     <MESSAGE value="solution of 17799" />
+    <MESSAGE value="update" />
     <MESSAGE value="solution of 17665" />
     <MESSAGE value="solution of 19234" />
     <MESSAGE value="solution of 18576" />
@@ -585,10 +590,7 @@
     <MESSAGE value="solution of 16248" />
     <MESSAGE value="solution of 14430" />
     <MESSAGE value="solution of 11292 MISTAKE" />
-    <MESSAGE value="solution of 19233 by hands" />
-    <MESSAGE value="solution of 16248 by hands" />
-    <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution of 11292 MISTAKE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
