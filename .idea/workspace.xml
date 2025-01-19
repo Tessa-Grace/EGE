@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 11292 MISTAKE">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 11292 MISTAKE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +81,7 @@
     "Python.task-2-18576.executor": "Run",
     "Python.task-2-18917.executor": "Run",
     "Python.task-2-19234.executor": "Run",
+    "Python.task-2-78.executor": "Run",
     "Python.task-2.executor": "Run",
     "Python.task-24-10105.executor": "Run",
     "Python.task-24-19254.executor": "Run",
