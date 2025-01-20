@@ -10,3 +10,5 @@ for val in permutations(alph, 6):
     if '!*!*!*' in val or '*!*!*!' in val:
         count += 1
 print(count)
+
+# otvet: 72
