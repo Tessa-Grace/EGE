@@ -8,3 +8,5 @@ for val in product(alph, repeat=5):
     ans.append(val)
 ans.sort()
 print(ans.index('НАИРИ') + 1)
+
+# otvet: 1922
