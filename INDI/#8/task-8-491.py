@@ -10,3 +10,5 @@ for pos, val in enumerate(product(alph, repeat=4), start=1):
             val.count('Д') == 1:
         ans.append(pos)
 print(ans[0])
+
+# otvet 195
