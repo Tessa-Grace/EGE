@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 5553 permutations">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Python.task-1-3879.executor": "Run",
     "Python.task-1-4581.executor": "Run",
     "Python.task-1-4606.executor": "Run",
+    "Python.task-1-5896.executor": "Run",
     "Python.task-1-9732.executor": "Run",
     "Python.task-1-9770.executor": "Run",
     "Python.task-1.executor": "Run",
@@ -118,6 +119,7 @@
     "Python.task-6-4694.executor": "Run",
     "Python.task-6.executor": "Run",
     "Python.task-8-10090.executor": "Run",
+    "Python.task-8-11202.executor": "Run",
     "Python.task-8-11292.executor": "Run",
     "Python.task-8-12786.executor": "Run",
     "Python.task-8-13252.executor": "Run",
@@ -176,30 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
-    </task>
-    <task id="LOCAL-00105" summary="update">
-      <option name="closed" value="true" />
-      <created>1736700567623</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1736700567623</updated>
-    </task>
-    <task id="LOCAL-00106" summary="solution of 18164">
-      <option name="closed" value="true" />
-      <created>1736700953197</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1736700953197</updated>
-    </task>
-    <task id="LOCAL-00107" summary="solution of 18162">
-      <option name="closed" value="true" />
-      <created>1736701212324</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1736701212324</updated>
     </task>
     <task id="LOCAL-00108" summary="solution of 17535">
       <option name="closed" value="true" />
@@ -569,7 +547,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737402606507</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="solution of 12786 permutations">
+      <option name="closed" value="true" />
+      <created>1737402780640</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1737402780640</updated>
+    </task>
+    <task id="LOCAL-00155" summary="solution of 11202 permutations">
+      <option name="closed" value="true" />
+      <created>1737403073231</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1737403073231</updated>
+    </task>
+    <task id="LOCAL-00156" summary="update">
+      <option name="closed" value="true" />
+      <created>1737403097858</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1737403097858</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,9 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution of 17621" />
-    <MESSAGE value="solution of 19233" />
-    <MESSAGE value="solution of 16248" />
     <MESSAGE value="solution of 14430" />
     <MESSAGE value="solution of 11292 MISTAKE" />
     <MESSAGE value="solution of 454" />
@@ -609,7 +608,10 @@
     <MESSAGE value="solution of 6477 permutations" />
     <MESSAGE value="solution of 7696 NOT SURE" />
     <MESSAGE value="solution of 5553 permutations" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution of 5553 permutations" />
+    <MESSAGE value="solution of 12786 permutations" />
+    <MESSAGE value="solution of 11202 permutations" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
