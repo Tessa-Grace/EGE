@@ -10,9 +10,9 @@ for x in range(1, 2006):
     num = 43**56 + 113**841 - x
     res = convert(num, 4)
     num = str(num)
-    chet = num.count('0') + num.count('2')
-    nechet = num.count('1') + num.count('3')
-    if chet % 2 == 0 and nechet % 2 == 0 and num.count('2')<= 712:
+    chet = res.count('0') + res.count('2')
+    nechet = res.count('1') + res.count('3')
+    if chet % 2 == 0 and nechet % 2 == 0 and res.count('2')<= 712:
         ans.append(x)
 print(max(ans))
 
