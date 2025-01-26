@@ -9,4 +9,4 @@ data = data.split('*')
 print(len(max(data, key=len)))
 
 
-# otvet: 140
+# otvet: 140 ОШИБКА!!
