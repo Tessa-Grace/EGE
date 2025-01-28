@@ -1,15 +1,14 @@
 with open('24_19254.txt') as file:
     data = file.readline()
 
-data = data.replace('FSRQ', '*')
-data = data.split('*')
+data = data.split('FSRQ')
 
 ans = 0
 for i in range(len(data) - 80):
-    ans = max(ans, len('*'.join(data[i:i+81])))
+    ans = max(ans, len('FSRQ'.join(data[i:i+83])))
 print(ans)
 
-#otvet: 2133 ОШИБКА!!!
+#otvet: 2407 ОШИБКА!
 '''
 Предлагают такое решение (переписала немного под себя):
 
