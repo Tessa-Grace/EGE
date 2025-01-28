@@ -9,7 +9,7 @@ ans = []
 for n in range(1, 10000):
     r = convert(n, 3)
     if n % 3 == 0:
-        r = r + r[-2]
+        r = r + r[-2:]
     else:
         r = r + convert((n % 3) * 5, 3)
     r = int(r, 3)
@@ -17,4 +17,4 @@ for n in range(1, 10000):
         ans.append(r)
 print(min(ans))
 
-# otvet: 135
+# otvet: 141

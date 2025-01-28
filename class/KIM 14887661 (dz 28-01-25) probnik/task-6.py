@@ -4,6 +4,7 @@ tracer(60)
 m = 10
 lt(90)
 
+up()
 for i in range(9):
     fd(15 * m)
     rt(90)
@@ -39,5 +40,5 @@ for x in range(-30, 30):
         dot(3, 'red')
 done()
 
-# 13*9 + 8*4 + 5*5 + 14*9 + 9*4 = 336
-# otvet: 336
+# 112
+# otvet: 112
