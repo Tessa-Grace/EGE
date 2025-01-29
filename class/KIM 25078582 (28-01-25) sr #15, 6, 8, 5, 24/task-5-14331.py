@@ -8,13 +8,13 @@ def convert(num, sys):
 ans = []
 for n in range(1, 10000):
     r = convert(n, 3)
-    if n % 3 == 0:
-        r = r + r[-2:]
+    if sum(map(int, r)) % 3 == 0:
+        r += '212'
     else:
-        r = r + convert((n % 3) * 5, 3)
+        r += convert(sum(map(int, r)) * 2, 3)
     r = int(r, 3)
-    if r > 133:
+    if r > 490:
         ans.append(r)
 print(min(ans))
 
-# otvet: 141
+# otvet: 512

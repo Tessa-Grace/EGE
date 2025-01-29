@@ -8,7 +8,7 @@ def f(A):
             f = (not(s_rectangle(x, y) > (A + 13))) <= ((s_rectangle(28, y) > 520) or (s_rectangle(x, 25) > 800))
             if not f:
                 return False
-        return True
+    return True
 
 ans = []
 for A in range(-10000, 10000):
