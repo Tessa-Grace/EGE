@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/KIM 14887661 (dz 28-01-25) probnik/task-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/class/KIM 14887661 (dz 28-01-25) probnik/task-15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +133,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
+    </task>
+    <task id="LOCAL-00009" summary="решение 12246">
+      <option name="closed" value="true" />
+      <created>1736266297242</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1736266297242</updated>
+    </task>
+    <task id="LOCAL-00010" summary="решение 19406">
+      <option name="closed" value="true" />
+      <created>1736268937093</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1736268937093</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ошибка, надо перерешать">
+      <option name="closed" value="true" />
+      <created>1736269254534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269254534</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Решение 18122">
+      <option name="closed" value="true" />
+      <created>1736269332388</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269332388</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Решение 18578">
+      <option name="closed" value="true" />
+      <created>1736269624027</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736269624027</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Решение 14327">
+      <option name="closed" value="true" />
+      <created>1736270423228</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736270423228</updated>
     </task>
     <task id="LOCAL-00015" summary="Решение 14327">
       <option name="closed" value="true" />
@@ -477,55 +526,7 @@
       <option name="project" value="LOCAL" />
       <updated>1738080884976</updated>
     </task>
-    <task id="LOCAL-00058" summary="solution of 14331">
-      <option name="closed" value="true" />
-      <created>1738083759954</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083759954</updated>
-    </task>
-    <task id="LOCAL-00059" summary="solution of 14173">
-      <option name="closed" value="true" />
-      <created>1738083772126</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083772126</updated>
-    </task>
-    <task id="LOCAL-00060" summary="solution of 8676">
-      <option name="closed" value="true" />
-      <created>1738083782261</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083782261</updated>
-    </task>
-    <task id="LOCAL-00061" summary="solution of 9545">
-      <option name="closed" value="true" />
-      <created>1738083790603</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083790603</updated>
-    </task>
-    <task id="LOCAL-00062" summary="TO SOLVE">
-      <option name="closed" value="true" />
-      <created>1738083805378</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083805378</updated>
-    </task>
-    <task id="LOCAL-00063" summary="update">
-      <option name="closed" value="true" />
-      <created>1738083831988</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1738083831988</updated>
-    </task>
-    <option name="localTasksCounter" value="64" />
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,6 +541,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="#2 method" />
+    <MESSAGE value="solution of 11292" />
+    <MESSAGE value="solution of 9771" />
+    <MESSAGE value="solution of 14390" />
+    <MESSAGE value="solution of 9148 MISTAKE" />
     <MESSAGE value="solution of 14443" />
     <MESSAGE value="solution of 13797" />
     <MESSAGE value="solution of 13089" />
@@ -559,11 +565,6 @@
     <MESSAGE value="solution of 12247" />
     <MESSAGE value="solution of 12483" />
     <MESSAGE value="solution of 14353" />
-    <MESSAGE value="solution of 14331" />
-    <MESSAGE value="solution of 14173" />
-    <MESSAGE value="solution of 8676" />
-    <MESSAGE value="solution of 9545" />
-    <MESSAGE value="TO SOLVE" />
     <MESSAGE value="update" />
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
