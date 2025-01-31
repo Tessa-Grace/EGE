@@ -1,6 +1,6 @@
 def f(A):
-    for x in range(0, 1000):
-        for y in range(0, 1000):
+    for x in range(1, 1000):
+        for y in range(1, 1000):
             f = (x * y >= 39) or (y <= x) or ( y >= A - 20)
             if not f:
                 return False
@@ -12,4 +12,4 @@ for A in range(0, 1000):
         ans.append(A)
 print(max(ans))
 
-# otvet:21
+# otvet: 22
