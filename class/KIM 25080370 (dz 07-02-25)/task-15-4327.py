@@ -15,4 +15,4 @@ for a1, a2 in combinations(line, 2):
 
 print(min(ans))
 
-# otvet:
+# otvet: ОШИБКА !!
