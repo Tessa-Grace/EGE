@@ -11,7 +11,7 @@ def convert(num, sys):
 
 num = 3*15**1140 + 2*15**1025 + 15**923 + 3*15**85 + 2*15**74
 num = convert(num, 15)
-count = 0
+count = 1
 maxx = 1
 for i in range(len(num) - 1):
     num1, num2 = num[i:i+2]
@@ -19,7 +19,7 @@ for i in range(len(num) - 1):
         count += 1
         maxx = max(maxx, count)
     else:
-        count = 0
+        count = 1
 print(maxx)
 
 # otvet: 836
