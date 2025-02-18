@@ -6,9 +6,9 @@ ans = []
 for i in range(len(data) - 1):
     num1, num2 = data[i:i+2]
     u1 = str(num1)[0] == '-'
-    u2 = num2 > 0
+    u2 = num2 < 0
     if u1 + u2 == 1 and num1 + num2 < len(count_7):
         ans.append(num1 + num2)
-print(len(data), max(ans))
+print(len(ans), max(ans))
 
-# otvet: 10000 -734
+# otvet: 2452 962
