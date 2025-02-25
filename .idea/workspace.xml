@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="solution of 753">
+    <list default="true" id="4cfb245b-c547-44c5-96e2-425ac14bfa28" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.task-15-11845.executor": "Run",
     "Python.task-15-12247.executor": "Run",
     "Python.task-15-12483.executor": "Run",
+    "Python.task-15-1276.executor": "Run",
     "Python.task-15-14350.executor": "Run",
     "Python.task-15-14353.executor": "Run",
     "Python.task-15-14658.executor": "Run",
@@ -147,30 +148,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735057119479</updated>
-    </task>
-    <task id="LOCAL-00024" summary="solution of 9771">
-      <option name="closed" value="true" />
-      <created>1736875080855</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1736875080855</updated>
-    </task>
-    <task id="LOCAL-00025" summary="solution of 9733">
-      <option name="closed" value="true" />
-      <created>1736875130805</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1736875130805</updated>
-    </task>
-    <task id="LOCAL-00026" summary="solution of 4582">
-      <option name="closed" value="true" />
-      <created>1736875317138</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1736875317138</updated>
     </task>
     <task id="LOCAL-00027" summary="#2 method">
       <option name="closed" value="true" />
@@ -540,7 +517,31 @@
       <option name="project" value="LOCAL" />
       <updated>1738690560322</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="solution of 1013">
+      <option name="closed" value="true" />
+      <created>1738690956575</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1738690956575</updated>
+    </task>
+    <task id="LOCAL-00074" summary="solution of 1276">
+      <option name="closed" value="true" />
+      <created>1738691193672</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1738691193672</updated>
+    </task>
+    <task id="LOCAL-00075" summary="update">
+      <option name="closed" value="true" />
+      <created>1738691206767</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1738691206767</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -555,8 +556,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution of 9838" />
-    <MESSAGE value="solution of 19359" />
     <MESSAGE value="solution of 19705" />
     <MESSAGE value="solution of 9784" />
     <MESSAGE value="solution of 11837" />
@@ -565,7 +564,6 @@
     <MESSAGE value="solution of 12247" />
     <MESSAGE value="solution of 12483" />
     <MESSAGE value="solution of 14353" />
-    <MESSAGE value="update" />
     <MESSAGE value="solution of 19874" />
     <MESSAGE value="solution of 18140" />
     <MESSAGE value="solution of 19246" />
@@ -580,6 +578,9 @@
     <MESSAGE value="solution of 746" />
     <MESSAGE value="solution of 747" />
     <MESSAGE value="solution of 753" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution of 753" />
+    <MESSAGE value="solution of 1013" />
+    <MESSAGE value="solution of 1276" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
