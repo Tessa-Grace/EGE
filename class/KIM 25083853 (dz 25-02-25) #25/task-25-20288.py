@@ -23,14 +23,14 @@ for i in ans:
 # ___________________________________________________
 #                     2 METHOD
 # ___________________________________________________
-'''
+
 from fnmatch import fnmatch
 
 for i in range(9231, 10 ** 10, 9231):
-    if fnmatch(str(i), '*12?4?') and i % 9231 == 0 and \
-            str(i)[0] in '02468' and str(i)[-3] in '13579' and str(i)[-1] in '13579':
-        print(i, i // 9231)
-'''
+    for j in range(6):
+        if fnmatch(str(i), f'{'[02468]' * j}12[13579]4[13579]'):
+            print(i, i // 9231)
+
 # otvet:
 # 608812143 65953
 # 2086012149 225979
