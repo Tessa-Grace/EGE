@@ -20,3 +20,4 @@ for a1, a2, a3, a4, a in product([0, 1], repeat=5):
                 print(*p)
 # print: zywx
 
+
