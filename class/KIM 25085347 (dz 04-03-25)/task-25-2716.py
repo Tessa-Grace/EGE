@@ -6,16 +6,18 @@ def dividers(num):
 
     res = sorted(res)
     if len(res) > 2:
-        res = list(res)
         s = res[-1] + res[-2] + res[-3]
-        if s > 0 and s % 2022 == 0 and s != i:
+        if s % 2022 == 0 and s != num:
             return s
     return 0
-
-for i in range(1, 1_200_001):
+count = 0
+for i in range(1, 1_200_001)[::-1]:
     res = dividers(i)
     if res:
         print(i, res)
+        count += 1
+        if count == 5:
+            break
 # otvet:
 # 1089858 1089858
 # 1091880 1182870 +
