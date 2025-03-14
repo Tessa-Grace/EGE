@@ -23,4 +23,4 @@ def f(cur, count=0):
 
 print(len(f(333)))
 
-# otvet: 4096 2224
+# otvet: 2224
