@@ -29,5 +29,5 @@ for x in range(-20, 20):
         goto(x*m, y*m)
         dot(3, 'white')
 done()
-# 15 * 21 = 315
-# otvet: 315
+# (15 + 21) *2 = 36 * 2 = 72
+# otvet: 72
