@@ -1,13 +1,21 @@
-from fnmatch import fnmatch
+from itertools import *
+ans=[]
+for r1 in range(3):
+    for z1 in product('0123456789', repeat=r1):
+        z1 = ''.join(z1)
+        for r2 in range(3):
+            for z2 in product('0123456789', repeat=r2):
+                z2 = ''.join(z2)
+                num = int(f'{z1}15{z2}7424')
+                if num <= 10 ** 8:
+                    u1 = num % 111 == 0
+                    u2 = num % 113 == 0
+                    u3 = num % 127 == 0
+                    if u1 + u2 + u3 == 1:
+                        ans.append([num, num // 111 if num % 111 == 0 else num // 113 \
+                            if num % 113 == 0 else num // 127])
 
-for i in range(1984, 10 ** 10 + 1, 1984):
-    if fnmatch(str(i), '[2468]9?23?*23[13579][02468]'):
-        print(i, i // 1984)
 
-# otvet:
-# 2902302336 1462854
-# 4912342336 2475979
-# 6922382336 3489104
-# 6932302336 3494104
-# 8912332352 4492103
-# 8942342336 4507229
+ans = sorted(ans)
+for i in ans:
+    print(*i)
