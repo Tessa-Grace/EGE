@@ -6,12 +6,11 @@ ans = []
 for i in range(len(data) - 2):
     num1, num2, num3 = data[i:i + 3]
     u1 = (len(str(abs(num1))) == 3) and str(num1)[-1] == '3'
-    u2 = (len(str(abs(num1))) == 3)
-    г3 = (len(str(abs(num1))) == 3)
+    u2 = (len(str(abs(num1))) == 3) and str(num1)[-1] == '3'
+    u3 = (len(str(abs(num1))) == 3) and str(num1)[-1] == '3'
 
-    if :
-        if num1 + num2 + num3 >= max_15:
-            ans.append(num1 + num2 + num3)
+    if u1 + u2 + u3 >= 1 and num1 + num2 + num3 <= max_3:
+        ans.append(num1 + num2 + num3)
 print(len(ans), max(ans))
 
-# otvet:
+# otvet: 52 944
