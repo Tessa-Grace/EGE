@@ -25,4 +25,4 @@ for art, info in goods.items():
 goods = sorted(goods2, key=lambda x: (-x[4], -x[3], -x[1], -x[2]))
 print(goods[0], goods[0][1] * goods[0][3])
 
-# NOT FINISHED
+# NOT FINISHED!
