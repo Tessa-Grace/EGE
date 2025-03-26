@@ -1,8 +1,10 @@
-from math import *
-
+num = int(input())
 ans = []
-for x in range(0, 7):
-    if (((7 - cos(4 * x))/ 2) ** 1.4) > ((-2) * cos(x)) and \
-            0 <= x < (2 * pi):
-        ans.append(x)
-print(sum(ans))
+while num != 0:
+    if num % 8 == 0:
+        ans.append(num)
+    num = int(input())
+if len(ans) > 0:
+    print(sum(ans) / len(ans))
+else:
+    print('NO')
