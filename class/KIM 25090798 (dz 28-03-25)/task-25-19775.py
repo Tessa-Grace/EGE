@@ -10,7 +10,7 @@ def dividers(num):
     res = set()
     for i in range(2, int(num ** .5) + 1):
         if num % i == 0:
-            if is_prime(num): res.add(i)
+            if is_prime(i): res.add(i)
             if is_prime(num // i): res.add(num // i)
     res = sorted(res)
 
@@ -29,4 +29,11 @@ for i in range(32_500_000, 10 ** 20):
         if count == 7:
             break
 
-# otvet: TO FINISH
+# otvet:
+# 32500280 2755
+# 32500301 58290
+# 32500440 1450
+# 32500623 17545
+# 32500665 722245
+# 32500700 7975
+# 32500834 4785
