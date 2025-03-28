@@ -12,7 +12,7 @@ for i in range(len(data) - 2):
     u3 = num3 % 7 == 0
 
     if u1 + u2 + u3 == 2:
-        ans.append([num1 * num2 * num3])
+        ans.append(num1 * num2 * num3)
 
 print(len(ans), min(ans))
 
