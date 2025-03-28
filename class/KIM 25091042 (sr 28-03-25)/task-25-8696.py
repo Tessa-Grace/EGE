@@ -1,4 +1,6 @@
 def is_prime(num):
+    if num < 2:
+        return False
     for i in range(2, int(num ** .5) + 1):
         if num % i == 0:
             return False
@@ -12,9 +14,9 @@ def dividers(num):
 
     res = sorted(res)
     m = sum(res)
-    if is_prime(m):
-        return 0
-    return m
+    if is_prime(m % 100_000):
+        return m
+    return 0
 
 count = 0
 for i in range(1_273_548, 10 ** 20):
@@ -25,8 +27,8 @@ for i in range(1_273_548, 10 ** 20):
         if count == 5:
             break
 # otvet:
-# 1273548 1698091
-# 1273550 1095345
-# 1273551 513968
-# 1273552 1601263
-# 1273553 5934
+# 1273566 1637537
+# 1273570 1139869
+# 1273578 1287317
+# 1273582 651769
+# 1273590 2225609
