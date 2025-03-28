@@ -6,7 +6,7 @@ def f(x, s):
 
 print('19)', [s for s in range(1, 165) if f(s, 2)])
 print('20)', [s for s in range(1, 165) if f(s, 3) and not f(s, 1)])
-print('2)', [s for s in range(1, 165) if f(s, 4) and not f(s, 2)])
+print('21)', [s for s in range(1, 165) if f(s, 4) and not f(s, 2)])
 
 # otvet:
 # 19) [82]
