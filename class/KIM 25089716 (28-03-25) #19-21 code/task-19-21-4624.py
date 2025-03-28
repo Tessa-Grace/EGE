@@ -11,4 +11,4 @@ print('2)', [s for s in range(1, 165) if f(s, 4) and not f(s, 2)])
 # otvet:
 # 19) [82]
 # 20) [41, 81]
-# 2) [80]
+# 21) [80]
