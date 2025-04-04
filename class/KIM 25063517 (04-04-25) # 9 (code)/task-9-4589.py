@@ -1,5 +1,4 @@
-from itertools import permutations, combinations
-
+from itertools import *
 
 def f1(nums):
     return max(nums) < sum(nums) - max(nums)
