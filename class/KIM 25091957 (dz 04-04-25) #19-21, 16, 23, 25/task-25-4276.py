@@ -8,22 +8,24 @@ def dividers(num):
     if len(res) >= 7:
         d = res[-7]
         if d > 0:
-            return d
-    return 0
+            return [d, len(res)]
+    return []
 
 count = 0
 for num in range(400_000_001, 10 ** 20):
     res = dividers(num)
     if res:
-        print(res)
+        print(*res)
         count += 1
         if count == 5:
             break
 # otvet:
-# 34
-# 2962963
-# 1793722
-# 21052632
-# 754717
+# 34 10
+# 2962963 14
+# 1793722 30
+# 21052632 62
+# 754717 14
 
-# но как найти количество делителей?
+# но как найти количество делителей? -> закинуть в return два элемента, а чтобы было удобнее, надо закинуть в список, а вывод распаковать сразу
+
+
