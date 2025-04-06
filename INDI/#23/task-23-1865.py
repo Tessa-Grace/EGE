@@ -1,7 +1,9 @@
+# 1865
+
 def f(current, final):
     if current == final:
         return 1
-    if current > final or current == 12: # если действия на возрастание, то >, если на убывание (- /), то <
+    if current > final or current == 12: # исключаем число 12 из траектории вычислений, как указано в условии к задаче
         return 0
 
     return f(current + 1, final) + f(current + 2, final) + f(current * 3, final)
