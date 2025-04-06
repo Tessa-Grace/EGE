@@ -16,3 +16,6 @@ for x in range(1, 2031):
     ans.append([num.count('0'), x])
 
 print(max(ans))
+
+# otvet: [73, 1715]
+# otvet: 1715
