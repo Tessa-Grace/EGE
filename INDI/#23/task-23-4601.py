@@ -1,10 +1,12 @@
-def f(current, final):
-    if current == final:
-        return 1
-    if current < final:
-        return 0
-    return f(current - 1, final) + f(current // 2, final)
+# 4601
 
-print(f(30, 12) * f(12, 1))
+def f(current, final): # current - текущее значение, final - финальное
+    if current == final: # если дошли до финального значения, которое дано в условии, то выводим True
+        return 1
+    if current < final: # если вдруг текущее значение стало меньше финального из условия, то выводим False, ибо такое нам не подходит
+        return 0
+    return f(current - 1, final) + f(current // 2, final) # описываем действия имеющихся команд ( 1) Вычти 1. 2) Найди целую часть от деления на 2.)
+
+print(f(30, 12) * f(12, 1)) # тк по условию траектория содержит 12, нужно найти кол-во ходов от начала до 12, а потом от 12 и до финального
 
 # otvet: 376
