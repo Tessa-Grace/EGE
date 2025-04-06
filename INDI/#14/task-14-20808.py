@@ -1,6 +1,4 @@
-from ctypes import c_int
 from string import printable
-
 
 def convert(num, sys):
     res = ''
