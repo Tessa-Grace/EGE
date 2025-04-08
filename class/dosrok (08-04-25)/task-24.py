@@ -1,6 +1,8 @@
 from string import ascii_uppercase
 
-data = ''
+with open('2422.txt') as file:
+    data = file.readline()
+
 for i in ascii_uppercase[2:]:
     data = data.replace(i, ' ')
 
