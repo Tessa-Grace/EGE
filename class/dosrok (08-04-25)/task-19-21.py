@@ -1,0 +1,16 @@
+def f(x, s):
+    if x <= 87: return s % 2 == 0
+    if s == 0: return False
+    h = [f(x - 2, s - 1),
+         f(x // 2, s - 1)]
+    return any(h) if (s - 1) % 2 == 0 else all(h)
+
+print('19)', [s for s in range(89, 1000) if f(s, 2)])
+print('20)', [s for s in range(89, 1000) if f(s, 3) and not f(s, 1)])
+print('21)', [s for s in range(89, 1000) if f(s, 4) and not f(s, 2)])
+
+# otvet:
+# C:\Users\TGerasimova\Desktop\EGE\.venv\Scripts\python.exe "C:\Users\TGerasimova\Desktop\EGE\class\dosrok (08-04-25)\task-19-21.py"
+# 19) [176]
+# 20) [178, 179]
+# 21) [180]
