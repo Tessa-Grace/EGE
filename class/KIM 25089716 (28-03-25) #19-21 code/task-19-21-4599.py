@@ -10,6 +10,6 @@ print('20)', [s for s in range(1, 242) if f(17, s, 3) and not f(17, s, 1)])
 print('21)', [s for s in range(1, 242) if f(17, s, 4) and not f(17, s, 2)])
 
 # otvet:
-# 19) 61 -> удалив (if (s - 1) % 2 == 0 else all(h)), чтобы получить ответы
+# 19) 61 -> удалив (if (s - 1) % 2 == 0 else all(h)) или заменив else all(h) на else any(), чтобы получить ответ на №19
 # 20) [112, 120]
 # 21) [111, 119]
