@@ -10,7 +10,7 @@ for mask in range(16, 25):
         print(net.netmask)
 
 # otvet:
-# 255.255.252.0 <- otvet
+# 255.255.252.0 <- min otvet
 # 255.255.254.0
 # 255.255.255.0
 
