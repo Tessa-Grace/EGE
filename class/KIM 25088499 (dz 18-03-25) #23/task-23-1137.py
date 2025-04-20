@@ -13,3 +13,4 @@ def f(cur, fin):
 print(f('100', '11101'))
 
 # otvet: 79
+
