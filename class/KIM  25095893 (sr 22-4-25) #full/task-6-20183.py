@@ -29,4 +29,4 @@ for x in range(-20, 20):
         dot(3, 'white')
 done()
 
-# otvet: 6 * 12 = 72
+# otvet: 6 +6 + 12 + 12 = 12+ 24 = 36
