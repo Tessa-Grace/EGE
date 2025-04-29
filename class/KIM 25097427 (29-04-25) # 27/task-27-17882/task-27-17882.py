@@ -44,7 +44,7 @@ with open('27_B_17882.txt') as file:
         x, y = map(float, i.split())
         if y < 4:
             clusterB1.append([x, y])
-        elif 4 <= y <= 6.5:
+        elif 4 <= y <= 6.5: # x < 5
             clusterB2.append([x, y])
         else:
             clusterB3.append([x, y])
