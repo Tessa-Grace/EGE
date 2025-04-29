@@ -53,7 +53,7 @@ centerB1 = centroid(clusterB1)
 centerB2 = centroid(clusterB2)
 centerB3 = centroid(clusterB3)
 
-ans_Bx = (centerB1[0] + centerB2[0] + centerB3[0]) / 3 # ищем среднее арифметическое
-ans_By = (centerB1[1] + centerB2[1] + centerB3[1]) / 3
+ans_x = (centerB1[0] + centerB2[0] + centerB3[0]) / 3 # ищем среднее арифметическое
+ans_y = (centerB1[1] + centerB2[1] + centerB3[1]) / 3
 
-print('B)', int(ans_Bx * 10_000), int(ans_By * 10_000))
+print('B)', int(ans_x * 10_000), int(ans_y * 10_000))
