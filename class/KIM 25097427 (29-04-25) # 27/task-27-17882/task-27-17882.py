@@ -1,5 +1,8 @@
 from math import dist # сразу формула евклидова расстояния
 
+#________________________________________________
+#                    Chapter А
+#________________________________________________
 def centroid(cluster):
     distance = []
     for dot in cluster:
@@ -23,7 +26,7 @@ center1 = centroid(cluster1)
 center2 = centroid(cluster2)
 
 ans_x = (center1[0] + center2[0]) / 2 # ищем среднее арифметическое
-ans_y = (center1[0] + center2[0]) / 2
+ans_y = (center1[1] + center2[1]) / 2
 
 print(int(ans_x * 10_000), int(ans_y * 10_000))
 
