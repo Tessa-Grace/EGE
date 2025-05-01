@@ -57,3 +57,7 @@ ans_x = (centerB1[0] + centerB2[0] + centerB3[0]) / 3 # ищем среднее 
 ans_y = (centerB1[1] + centerB2[1] + centerB3[1]) / 3
 
 print('B)', int(ans_x * 10_000), int(ans_y * 10_000))
+
+# otvet:
+# A) 10738 30730
+# B) 37522 51277
