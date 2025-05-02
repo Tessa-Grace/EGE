@@ -12,8 +12,8 @@ def dividers(num):
 
     st_2 = [i for i in res if st2(i)]
     not_st_2 = [i for i in res if not st2(i)]
-    if len(st_2) >= 20:
-        return sum(not_st_2) if not_st_2 else 0
+    if len(st_2) >= 20 and len(not_st_2) > 0:
+        return sum(not_st_2)
     return 0
 
 count = 0
@@ -47,7 +47,7 @@ def dividers(num):
         for i in res:
             if i in st_2: sp_st_2.append(i)
             if i not in st_2: not_st_2.append(i)
-        if len(sp_st_2) >= 20:
+        if len(sp_st_2) >= 20  and len(not_st_2) > 0:
             return sum(not_st_2)
     return 0
 
