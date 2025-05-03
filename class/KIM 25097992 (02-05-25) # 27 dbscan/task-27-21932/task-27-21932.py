@@ -1,6 +1,5 @@
 from math import dist
 
-
 def centroid(cluster):
     dists = []
     for dot in cluster:
