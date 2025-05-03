@@ -23,7 +23,6 @@ while data:
                 cluster.append(dot2)
                 data.remove(dot2)
     clusters.append(cluster)
-
 print([len(cluster) for cluster in clusters])
 
 centers = [centroid(cluster) for cluster in clusters]
