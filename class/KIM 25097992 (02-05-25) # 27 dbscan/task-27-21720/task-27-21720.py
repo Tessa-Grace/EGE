@@ -10,7 +10,7 @@ def centroid(cluster):
     return min(distance)[1]
 
 
-with open('27_B_21720.txt') as file:
+with open('27_A_21720.txt') as file:
     data = [list(map(float, i.replace(',', '.').split())) for i in file]
 
 eps = 1.5
@@ -29,10 +29,10 @@ centers = [centroid(cluster) for cluster in clusters]
 px = sum(center[0] for center in centers) / len(centers)
 py = sum(center[1] for center in centers) / len(centers)
 
-print(int(px * 10000), int(py * 10000))
+print(abs(int(px * 10000)), abs(int(py * 10000)))
 
 # A) [50, 50] <- кластеры
-# otvet: -28745 649
+# otvet: 28745 649
 
 # B) [3334, 3333, 3333] <- кластеры
-# otvet: -53704 26756
+# otvet: 53704 26756
