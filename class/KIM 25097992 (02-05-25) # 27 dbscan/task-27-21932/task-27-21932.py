@@ -1,39 +1,41 @@
 from math import dist
 
+
 def centroid(cluster):
-    distance = []
+    dists = []
     for dot in cluster:
         sum_dist = 0
         for dot2 in cluster:
-            sum_dist = dist(dot, dot2)
-        distance.append([sum_dist, dot])
-    return min(distance)[1]
+            sum_dist += dist(dot, dot2)
+        dists.append([sum_dist, len(cluster), dot])
+    return min(dists)
 
 
-with open('27_A_21932.txt') as file:
-    data = [list(map(float, i.replace(',', '.').split())) for i in file]
+with open('27_B_21932.txt') as file:
+    data = [list(map(float, i.split())) for i in file]
 
-eps = 1
 clusters = []
+eps = 1
 while data:
     cluster = [data.pop()]
     for dot in cluster:
         for dot2 in data.copy():
             if dist(dot, dot2) < eps:
-                data.remove(dot2)
                 cluster.append(dot2)
+                data.remove(dot2)
     clusters.append(cluster)
 
-print([(len(cluster), centroid(cluster)) for cluster in clusters])
+print([len(cluster) for cluster in clusters])
 
 centers = [centroid(cluster) for cluster in clusters]
-px = min(center[0] for center in centers)
-py = max(center[1] for center in centers)
+min_x = min([center for center in centers], key=lambda x: x[1])[2][0]
+max_y = max([center for center in centers], key=lambda x: x[1])[2][1]
 
-print(int(px * 10000), int(py * 10000))
+print(int(min_x * 10_000), int(max_y * 10_000))
+
 
 # A) [137, 100] <- кластеры
-# otvet:
+# otvet: 32865 70666
 
-# B) <- кластеры
-# otvet:
+# B) [102, 439, 98] <- кластеры
+# otvet: 144062 61170
