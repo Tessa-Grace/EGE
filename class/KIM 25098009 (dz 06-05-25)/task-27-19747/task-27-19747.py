@@ -9,26 +9,28 @@ def centroid(cluster):
         dists.append([sum_dist, dot])
     return min(dists)[1]
 
-with open('27B_19747.txt') as file:
-    data = [list(map(float, i.replace(',', '.').split())) for i in file]
+with open('27A_19747.txt') as file:
+    clusterB1 = []
+    clusterB2 = []
+    clusterB3 = []
+    for i in file:
+        x, y = map(float, i.split())
+        if 5 <= x <= 8 and 0 <= y <= 4.9:
+            clusterB1.append([x, y])
+        if 5 <= x <= 10 and 5 <= y <= 12:
+            clusterB2.append([x, y])
+        if 0 <= x <= 4.9 and 5 <= y <= 9:
+            clusterB3.append([x, y])
 
-clusters = []
-#eps = 0.64
-#eps = 0.278
-while data:
-    cluster = [data.pop()]
-    for dot in cluster:
-        for dot2 in data:
-            if dist(dot, dot2) < eps:
-                cluster.append(dot2)
-                data.remove(dot2)
-    clusters.append(cluster)
-print([len(cluster) for cluster in clusters])
+centerB1 = centroid(clusterB1)
+centerB2 = centroid(clusterB2)
+centerB3 = centroid(clusterB3)
 
-centers = [centroid(cluster) for cluster in clusters]
-px = sum(center[0] for center in centers) / len(centers)
-py = sum(center[1] for center in centers) / len(centers)
+px = (centerB1[0] + centerB2[0] + centerB3[0]) / 3
+py = (centerB1[1] + centerB2[1] + centerB3[1]) / 3
+
 
 print(abs(int(px * 100_000)), abs(int(py * 100_000)))
 
-# otveti ne te :(
+# A) 532496 533164
+# B) ne znayu :(
