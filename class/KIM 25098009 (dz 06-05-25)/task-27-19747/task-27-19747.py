@@ -13,7 +13,8 @@ with open('27B_19747.txt') as file:
     data = [list(map(float, i.replace(',', '.').split())) for i in file]
 
 clusters = []
-eps = 1.5
+#eps = 0.64
+#eps = 0.278
 while data:
     cluster = [data.pop()]
     for dot in cluster:
