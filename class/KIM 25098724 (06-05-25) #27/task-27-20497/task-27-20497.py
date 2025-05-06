@@ -13,7 +13,7 @@ with open('27.19.B_20497.txt') as file:
     data = [list(map(float, i.replace(',', '.').split())) for i in file]
 
 clusters = []
-eps = 4.5 <- # ищем мин расстояние от каждой возможной аномалии до точки из кластера
+eps = 4.5 # <- ищем мин расстояние от каждой возможной аномалии до точки из кластера
 while data:
     cluster = [data.pop()]
     for dot in cluster:
