@@ -28,7 +28,7 @@ print([len(cluster) for cluster in clusters])
 
 centers = [centroid(cluster) for cluster in clusters]
 min_x = min([center for center in centers], key=lambda x: x[1])[2][0]
-max_y = max([center for center in centers], key=lambda x: x[1])[2][1]
+max_y = max([center for center in centers], key=lambda x: x[1])[2][0]
 
 print(int(min_x * 10_000), int(max_y * 10_000))
 
