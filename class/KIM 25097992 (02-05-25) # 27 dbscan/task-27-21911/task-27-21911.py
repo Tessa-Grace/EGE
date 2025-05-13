@@ -9,10 +9,10 @@ def centroid(cluster):
         distance.append([sum_dist, dot])
     return min(distance)[1]
 
-with open('27_B_21911.txt') as file:
+with open('27_A_21911.txt') as file:
     data = [list(map(float, i.replace(',', '.').split())) for i in file]
 
-eps = 1
+eps = 2
 clusters = []
 while data:
     cluster = [data.pop()]
