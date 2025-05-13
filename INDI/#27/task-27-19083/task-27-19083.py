@@ -9,7 +9,6 @@ def centroid(cluster):
         distance.append([sum_dist, dot])
     return min(distance)[1]
 
-
 with open('27A_19083.txt') as file:
     data = [list(map(float, i.replace(',', '.').split())) for i in file]
 
@@ -30,3 +29,5 @@ px = sum(center[0] for center in centers) / len(centers)
 py = sum(center[1] for center in centers) / len(centers)
 
 print(int(px * 100_000), int(py * 100_000))
+
+#MISTAKE
