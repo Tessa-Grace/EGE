@@ -15,10 +15,10 @@ for match in matches:
     else:
         for l in range(len(match) + 1):
             for r in range(len(match), l, - 1):
-                sub_str = match[l:r].strip('0+*')
+                sub_str = match[l:r].strip('+*')
                 if len(sub_str) < 2:
                     break
-                if sub_str[0] == '0' and sub_str[1]in '0123456789': # ищем так, тк регулярка не терпит наложений, мы пропустим часть вариантов
+                if sub_str[0] == '0' and sub_str[1] in '0123456789': # ищем так, тк регулярка не терпит наложений, мы пропустим часть вариантов
                     continue
                 if eval(sub_str) == 0:
                     ans = max(ans, len(sub_str))
