@@ -8,7 +8,7 @@ with open('24_9791.txt') as file:
     data = file.readline()
 
 for i in ascii_uppercase[6:]:
-    data = data.replace('i', ' ')
+    data = data.replace(i, ' ')
 
 data = data.split()
 
@@ -29,3 +29,4 @@ for i in data:
 # может скрываться более короткая подстрока, которая подойдет под условие
 print(ans)
 
+# otvet: 21
