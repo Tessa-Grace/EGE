@@ -1,3 +1,5 @@
+# 21710
+
 from itertools import combinations
 
 def f(x):
@@ -14,3 +16,4 @@ for a1, a2 in combinations(line, 2):
 print(min(ans))
 
 # otvet: 74
+
